@@ -10,8 +10,10 @@
     "contact": "Contact"
   },
   "header": {
-    "start": "Open web app",
-    "navAria": "Primary"
+    "start": "Start",
+    "navAria": "Primary",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
   },
   "auth": {
     "tabsAria": "Sign in or create account",
@@ -38,7 +40,7 @@
     "lead": "BuildingFex helps boards and property managers run common areas, collections, maintenance, and communications with the same experience on this site and in the web application.",
     "logoPrimary": "Building",
     "logoAccent": "Fex",
-    "ctaPrimary": "Open the web application",
+    "ctaPrimary": "Start",
     "columnTitle": "What BuildingFex covers",
     "cardToggleExpand": "Show full description: {title}",
     "cardToggleCollapse": "Hide full description: {title}",

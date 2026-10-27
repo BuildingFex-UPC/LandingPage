@@ -62,7 +62,7 @@
 
 @media (max-width: 899px) {
   :root {
-    --landing-header-height: 7.5rem;
+    --landing-header-height: 3.75rem;
   }
 }
 

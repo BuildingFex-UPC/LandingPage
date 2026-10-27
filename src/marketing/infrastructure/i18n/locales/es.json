@@ -10,8 +10,10 @@
     "contact": "Contacto"
   },
   "header": {
-    "start": "Abrir la aplicación web",
-    "navAria": "Principal"
+    "start": "Empezar",
+    "navAria": "Principal",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
   },
   "auth": {
     "tabsAria": "Iniciar sesión o crear cuenta",
@@ -38,7 +40,7 @@
     "lead": "BuildingFex ayuda a juntas y administradores a gestionar áreas comunes, cobranzas, mantenimiento y comunicación con la misma experiencia en esta web y en la aplicación.",
     "logoPrimary": "Building",
     "logoAccent": "Fex",
-    "ctaPrimary": "Abrir la aplicación web",
+    "ctaPrimary": "Empezar",
     "columnTitle": "Qué cubre BuildingFex",
     "cardToggleExpand": "Mostrar descripción completa: {title}",
     "cardToggleCollapse": "Ocultar descripción completa: {title}",
