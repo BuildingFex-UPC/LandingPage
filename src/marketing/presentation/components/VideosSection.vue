@@ -6,7 +6,7 @@ const { t } = useI18n()
 
 const videos = [
   {
-    id: 'Hoqy5EWpEJo',
+    id: 'DzIJxvTv4ks',
     titleKey: 'videos.productTitle',
   },
   {
